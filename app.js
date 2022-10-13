@@ -1,3 +1,5 @@
+// I had to render this file in index.html file so that I can use fetch API.
+
 const fetchData = async (url) => {
   try {
     let res = await fetch(url)
