@@ -16,11 +16,11 @@ fetchData('https://jsonplaceholder.typicode.com/users').then((data) => {
     delete user.id
   });
 
-  // log name who works at 'Robel-Corkery' company
+  // log name of a person who works at 'Robel-Corkery' company
   let searchedUser = users.find((user) => user.company.name === 'Robel-Corkery');
   console.log(searchedUser.name);
 
-  // sorts users by user name
+  // sorts users by username
   users.sort((a, b) => {
     return a.username.localeCompare(b.username);
   });
