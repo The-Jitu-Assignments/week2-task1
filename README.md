@@ -13,7 +13,7 @@ The data used was from: https://jsonplaceholder.typicode.com/users
 - Log all the users whose lat is greater than 0
 - Add an image Property to every object and give it a value of
 
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/         2048px-Unofficial_JavaScript_logo_2.svg.png  
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/ 2048px-Unofficial_JavaScript_logo_2.svg.png  
 
 - Delete a user with the username ‘Elwyn.Skiles’
 
